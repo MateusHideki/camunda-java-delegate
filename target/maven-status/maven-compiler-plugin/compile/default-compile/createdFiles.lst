@@ -1,0 +1,5 @@
+org\camunda\bpm\PushDelegate.class
+org\camunda\bpm\DocumentDelegate.class
+org\camunda\bpm\Application.class
+org\camunda\bpm\EmailDelegate.class
+org\camunda\bpm\UpdateAccountDelegate.class

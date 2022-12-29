@@ -1,0 +1,28 @@
+{
+  "components": [
+    {
+      "label": "Approved",
+      "type": "textfield",
+      "id": "Field_1px6tkp",
+      "key": "approved"
+    },
+    {
+      "label": "Checkbox",
+      "type": "checkbox",
+      "id": "Field_13p1zda",
+      "key": "field_0pyg21b",
+      "defaultValue": false,
+      "disabled": false,
+      "properties": {}
+    }
+  ],
+  "type": "default",
+  "id": "balance-form",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.4.1"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.18.0",
+  "schemaVersion": 5
+}
